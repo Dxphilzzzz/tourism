@@ -189,7 +189,7 @@ const hotlines = [
   { name: "Philippine Coast Guard", number: "(083) 552-0111", icon: "⚓", color: "bg-sky-600", desc: "Maritime & sea emergencies" },
   { name: "NDRRMC Hotline", number: "8888", icon: "🆘", color: "bg-orange-600", desc: "Disaster risk & response" },
   { name: "DOT Tourist Hotline", number: "1-800-10-239-6000", icon: "🗺️", color: "bg-purple-600", desc: "Tourism assistance (toll-free)" },
-  { name: "Sarangani Provincial Hospital", number: "(083) 508-2345", icon: "🏥", color: "bg-emerald-600", desc: "Nearest provincial hospital" },
+  { name: "Mati Provincial Hospital", number: "(083) 508-2345", icon: "🏥", color: "bg-emerald-600", desc: "Nearest provincial hospital" },
   { name: "Local Tourist Office", number: "(083) 300-1234", icon: "ℹ️", color: "bg-indigo-600", desc: "Local tourism information" },
 ];
 
@@ -319,9 +319,9 @@ export default function TourismWebsite() {
         <div className="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
           <div>
             <h1 className="text-2xl font-bold text-green-700" style={{ fontFamily: "'Playfair Display', serif" }}>
-              ExploreLocal
+              TourEase Mati
             </h1>
-            <p className="text-xs text-gray-400 leading-none">www.explorelocal-tourism.com</p>
+            <p className="text-xs text-gray-400 leading-none">www.tourease.xyz-abc.workers.dev</p>
           </div>
 
           {/* Desktop nav */}
@@ -978,7 +978,7 @@ export default function TourismWebsite() {
         <div className="max-w-7xl mx-auto">
           <div className="grid md:grid-cols-4 gap-8 mb-10">
             <div className="md:col-span-2">
-              <h3 className="text-2xl font-bold mb-2" style={{ fontFamily: "'Playfair Display', serif" }}>ExploreLocal</h3>
+              <h3 className="text-2xl font-bold mb-2" style={{ fontFamily: "'Playfair Display', serif" }}>TourEase</h3>
               <p className="text-gray-400 text-sm max-w-xs">Supporting micro-entrepreneurs through sustainable, community-driven tourism in Mindanao.</p>
             </div>
             <div>
