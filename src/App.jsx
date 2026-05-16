@@ -319,7 +319,7 @@ export default function TourismWebsite() {
         <div className="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
           <div>
             <h1 className="text-2xl font-bold text-green-700" style={{ fontFamily: "'Playfair Display', serif" }}>
-              TourEase Mati
+              TourEase Hub
             </h1>
             <p className="text-xs text-gray-400 leading-none">www.tourease.xyz-abc.workers.dev</p>
           </div>
@@ -978,7 +978,7 @@ export default function TourismWebsite() {
         <div className="max-w-7xl mx-auto">
           <div className="grid md:grid-cols-4 gap-8 mb-10">
             <div className="md:col-span-2">
-              <h3 className="text-2xl font-bold mb-2" style={{ fontFamily: "'Playfair Display', serif" }}>TourEase</h3>
+              <h3 className="text-2xl font-bold mb-2" style={{ fontFamily: "'Playfair Display', serif" }}>TourEase Hub</h3>
               <p className="text-gray-400 text-sm max-w-xs">Supporting micro-entrepreneurs through sustainable, community-driven tourism in Mindanao.</p>
             </div>
             <div>
